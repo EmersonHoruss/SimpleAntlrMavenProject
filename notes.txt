@@ -1,0 +1,6 @@
+to execute this app just open your console in root of the project
+then run the next command: mvn package
+then run the next command: java -cp target/array-example-1.0-jar-with-dependencies.jar org.abcd.examples.ArrayInit.ArrayInit
+then enter the next text: {1,2,3}
+then press Ctrl + Z and enter in windows to input the input
+then you will get the next output: (init { (value 1) , (value 2) , (value 3) })
